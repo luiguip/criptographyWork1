@@ -1,0 +1,16 @@
+ASCII	src/vocabulary26.c	3
+ASCII	src/vocabulary27.c	3
+CNUMBER	src/desafio.c	7
+DESAFIO_H	lib/desafio.h	2
+HELP	src/desafio.c	6
+INFILE	src/desafio.c	4
+MODE	src/desafio.c	3
+Mdesafio	src/desafio.c	/^int main(int argc, char *argv[]){$/
+OUTFILE	src/desafio.c	5
+SPACE	src/vocabulary27.c	5
+VOCABULARYSIZE	src/vocabulary256.c	3
+VOCABULARYSIZE	src/vocabulary26.c	4
+VOCABULARYSIZE	src/vocabulary27.c	4
+vocabulary256	src/vocabulary256.c	/^void vocabulary256(char* fileEntryName, char* file/
+vocabulary26	src/vocabulary26.c	/^void vocabulary26(char* fileEntryName, char* fileO/
+vocabulary27	src/vocabulary27.c	/^void vocabulary27(char* fileEntryName, char* fileO/

@@ -1,0 +1,12 @@
+Roteiro Desafio
+
+	Para copilar e executar os testes do experimento dentro da pasta scripts pode se feita tanto a compilação como o script do experimento, para executar os scripts é necessário estar no diretório de scripts.
+O funcionamento do programa cnsiste em o usuário escolher o modo como deseja rodalo, com os alfabetos Z26, Z27 ou Z256 como uma informação obrigatória, o arquivo a ser selecionado ,o arquivo de saída e opção de colocar o número de caracteres .
+
+	O programa possui um README.txt com as informações necessárias para ultiliza-lo e a flag -h como uma consulta prática de como ultilizá-lo.
+
+	Como fonte de bibliotecas para o programa ultilizei os conhecimentos de teoria da informação e codificação, e para consulta de bibliotecas ultilizei o site https://www.tutorialspoint.com/c_standard_library/ onde além de informação de funções das bibliotecas do ansi c, tem-se exemplos.
+
+	Realizados os testes chega-se a conclusão que quanto maior o alfabeto, maior a entropia, pois em alfabetos limitados, certos caracteres são ignorados. Alfabetos maiores previnem perda de informação, em caso de que seja necessária elementos que em alfabetos menores não estariam presentes.
+
+	
